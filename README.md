@@ -10,3 +10,6 @@ The repository is structured as follows:
 
 - **MapReduce**: Contains projects related to MapReduce, demonstrating distributed data processing techniques using the MapReduce programming model.
 - **Apache Spark**: Includes projects leveraging Apache Spark for large-scale data processing.
+- **Apache Pulsar**: Include a project demonstrating message production and consumption using the Apache Pulsar messaging system.
+
+
